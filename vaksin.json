@@ -1,0 +1,2337 @@
+[
+  {
+    "kode": "1101",
+    "kabu": "KAB.+SIMEULUE",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1102",
+    "kabu": "KAB.+ACEH+SINGKIL",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1103",
+    "kabu": "KAB.+ACEH+SELATAN",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1104",
+    "kabu": "KAB.+ACEH+TENGGARA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1105",
+    "kabu": "KAB.+ACEH+TIMUR",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1106",
+    "kabu": "KAB.+ACEH+TENGAH",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1107",
+    "kabu": "KAB.+ACEH+BARAT",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1108",
+    "kabu": "KAB.+ACEH+BESAR",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1109",
+    "kabu": "KAB.+PIDIE",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1110",
+    "kabu": "KAB.+BIREUEN",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1111",
+    "kabu": "KAB.+ACEH+UTARA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1112",
+    "kabu": "KAB.+ACEH+BARAT+DAYA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1113",
+    "kabu": "KAB.+GAYO+LUES",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1114",
+    "kabu": "KAB.+ACEH+TAMIANG",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1115",
+    "kabu": "KAB.+NAGAN+RAYA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1116",
+    "kabu": "KAB.+ACEH+JAYA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1117",
+    "kabu": "KAB.+BENER+MERIAH",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1118",
+    "kabu": "KAB.+PIDIE+JAYA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1171",
+    "kabu": "KOTA+BANDA+ACEH",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1172",
+    "kabu": "KOTA+SABANG",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1173",
+    "kabu": "KOTA+LANGSA",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1174",
+    "kabu": "KOTA+LHOKSEUMAWE",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1175",
+    "kabu": "KOTA+SUBULUSSALAM",
+    "Prov": "Aceh"
+  },
+  {
+    "kode": "1201",
+    "kabu": "KAB.+NIAS",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1202",
+    "kabu": "KAB.+MANDAILING+NATAL",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1203",
+    "kabu": "KAB.+TAPANULI+SELATAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1204",
+    "kabu": "KAB.+TAPANULI+TENGAH",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1205",
+    "kabu": "KAB.+TAPANULI+UTARA",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1206",
+    "kabu": "KAB.+TOBA+SAMOSIR",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1207",
+    "kabu": "KAB.+LABUHAN+BATU",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1208",
+    "kabu": "KAB.+ASAHAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1209",
+    "kabu": "KAB.+SIMALUNGUN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1210",
+    "kabu": "KAB.+DAIRI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1211",
+    "kabu": "KAB.+KARO",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1212",
+    "kabu": "KAB.+DELI+SERDANG",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1213",
+    "kabu": "KAB.+LANGKAT",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1214",
+    "kabu": "KAB.+NIAS+SELATAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1215",
+    "kabu": "KAB.+HUMBANG+HASUNDUTAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1216",
+    "kabu": "KAB.+PAKPAK+BHARAT",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1217",
+    "kabu": "KAB.+SAMOSIR",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1218",
+    "kabu": "KAB.+SERDANG+BEDAGAI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1219",
+    "kabu": "KAB.+BATU+BARA",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1220",
+    "kabu": "KAB.+PADANG+LAWAS+UTARA",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1221",
+    "kabu": "KAB.+PADANG+LAWAS",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1222",
+    "kabu": "KAB.+LABUHAN+BATU+SELATAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1223",
+    "kabu": "KAB.+LABUHAN+BATU+UTARA",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1271",
+    "kabu": "KAB.+KOTA+SIBOLGA",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1272",
+    "kabu": "KAB.+KOTA+TANJUNG+BALAI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1273",
+    "kabu": "KOTA+PEMATANG+SIANTAR",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1274",
+    "kabu": "KOTA+TEBING+TINGGI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1275",
+    "kabu": "KOTA+MEDAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1276",
+    "kabu": "KOTA+BINJAI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1277",
+    "kabu": "KOTA+PADANG+SIDEMPUAN",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1278",
+    "kabu": "KOTA+GUNUNG+SITOLI",
+    "Prov": "Sumatra+Utara"
+  },
+  {
+    "kode": "1301",
+    "kabu": "KAB.+KEPULAUAN+MENTAWAI",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1302",
+    "kabu": "KAB.+PESISIR+SELATAN",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1303",
+    "kabu": "KAB.+KAB.+SOLOK",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1304",
+    "kabu": "KAB.+SIJUNJUNG",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1305",
+    "kabu": "KAB.+TANAH+DATAR",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1306",
+    "kabu": "KAB.+PADANG+PARIAMAN",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1307",
+    "kabu": "KAB.+AGAM",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1308",
+    "kabu": "KAB.+LIMA+PULUH+KOTA",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1309",
+    "kabu": "KAB.+PASAMAN",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1310",
+    "kabu": "KAB.+SOLOK+SELATAN",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1311",
+    "kabu": "KAB.+DHARMASRAYA",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1312",
+    "kabu": "KAB.+PASAMAN+BARAT",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1371",
+    "kabu": "KOTA+PADANG",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1372",
+    "kabu": "KOTA+SOLOK",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1373",
+    "kabu": "KOTA+SAWAH+LUNTO",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1374",
+    "kabu": "KOTA+PADANG+PANJANG",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1375",
+    "kabu": "KOTA+BUKITTINGGI",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1376",
+    "kabu": "KOTA+PAYAKUMBUH",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1377",
+    "kabu": "KOTA+PARIAMAN",
+    "Prov": "Sumatra+Barat"
+  },
+  {
+    "kode": "1401",
+    "kabu": "KAB.+KUANTAN+SENGINGI",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1402",
+    "kabu": "KAB.+INDRAGIRI+HULU",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1403",
+    "kabu": "KAB.+INDRAGIRI+HILIR",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1404",
+    "kabu": "KAB.+PELALAWAN",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1406",
+    "kabu": "KAB.+KAMPAR",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1407",
+    "kabu": "KAB.+ROKAN+HULU",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1408",
+    "kabu": "KAB.+BENGKALIS",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1409",
+    "kabu": "KAB.+ROKAN+HILIR",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1410",
+    "kabu": "KAB.+MERANTI",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1471",
+    "kabu": "KOTA+PEKAN+BARU",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1473",
+    "kabu": "KOTA+DUMAI",
+    "Prov": "Riau"
+  },
+  {
+    "kode": "1501",
+    "kabu": "KAB.+KERINCI",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1502",
+    "kabu": "KAB.+MERANGIN",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1503",
+    "kabu": "KAB.+SAROLANGUN",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1504",
+    "kabu": "KAB.+BATANG+HARI",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1505",
+    "kabu": "KAB.+MUARO+JAMBI",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1506",
+    "kabu": "KAB.+TANJUNG+JABUNG+TIMUR",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1507",
+    "kabu": "KAB.+TANJUNG+JABUNG+BARAT",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1508",
+    "kabu": "KAB.+TEBO",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1509",
+    "kabu": "KAB.+BUNGO",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1571",
+    "kabu": "KOTA+JAMBI",
+    "Prov": "Jambi"
+  },
+  {
+    "kode": "1601",
+    "kabu": "KAB.+OGAN+KOMERING+ULU",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1602",
+    "kabu": "KAB.+OGAN+KOMERING+ILIR",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1603",
+    "kabu": "KAB.+MUARA+ENIM",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1604",
+    "kabu": "KAB.+LAHAT",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1605",
+    "kabu": "KAB.+MUSI+RAWAS",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1606",
+    "kabu": "KAB.+MUSI+BANYU+ASIN",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1607",
+    "kabu": "KAB.+BANYUASIN",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1608",
+    "kabu": "KAB.+OGAN+KOMERING+ULU+SELATAN",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1609",
+    "kabu": "KAB.+OGAN+KOMERING+ULU+TIMUR",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1610",
+    "kabu": "KAB.+OGAN+ILIR",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1611",
+    "kabu": "KAB.+EMPAT+LAWANG",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1671",
+    "kabu": "KOTA+PALEMBANG",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1672",
+    "kabu": "KOTA+PRABUMULIH",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1673",
+    "kabu": "KOTA+PAGAR+ALAM",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1674",
+    "kabu": "KOTA+LUBUK+LINGGAU",
+    "Prov": "Sumatra+Selatan"
+  },
+  {
+    "kode": "1701",
+    "kabu": "KAB.+BENGKULU+SELATAN",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1702",
+    "kabu": "KAB.+REJANG+LEBONG",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1703",
+    "kabu": "KAB.+BENGKULU+UTARA",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1704",
+    "kabu": "KAB.+KAUR",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1705",
+    "kabu": "KAB.+SELUMA",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1706",
+    "kabu": "KAB.+MUKOMUKO",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1707",
+    "kabu": "KAB.+LEBONG",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1708",
+    "kabu": "KAB.+KEPAHIANG",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1709",
+    "kabu": "KAB.+BENGKULU+TENGAH",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1771",
+    "kabu": "KOTA+BENGKULU",
+    "Prov": "Bengkulu"
+  },
+  {
+    "kode": "1801",
+    "kabu": "KAB.+LAMPUNG+BARAT",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1802",
+    "kabu": "KAB.+TANGGAMUS",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1803",
+    "kabu": "KAB.+LAMPUNG+SELATAN",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1804",
+    "kabu": "KAB.+LAMPUNG+TIMUR",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1805",
+    "kabu": "KAB.+LAMPUNG+TENGAH",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1806",
+    "kabu": "KAB.+LAMPUNG+UTARA",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1807",
+    "kabu": "KAB.+WAY+KANAN",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1808",
+    "kabu": "KAB.+TULANGBAWANG",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1809",
+    "kabu": "KAB.+PESAWARAN",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1810",
+    "kabu": "KAB.+PRINGSEWU",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1871",
+    "kabu": "KOTA+BANDAR+LAMPUNG",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1872",
+    "kabu": "KOTA+METRO",
+    "Prov": "Lampung"
+  },
+  {
+    "kode": "1901",
+    "kabu": "KAB.+BANGKA",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1902",
+    "kabu": "KAB.+BELITUNG",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1903",
+    "kabu": "KAB.+BANGKA+BARAT",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1904",
+    "kabu": "KAB.+BANGKA+TENGAH",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1905",
+    "kabu": "KAB.+BANGKA+SELATAN",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1906",
+    "kabu": "KAB.+BELITUNG+TIMUR",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "1971",
+    "kabu": "KOTA+PANGKAL+PINANG",
+    "Prov": "Kepulauan+Bangka+Belitung"
+  },
+  {
+    "kode": "2001",
+    "kabu": "KAB.+KARIMUN",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2002",
+    "kabu": "KAB.+BINTAN",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2003",
+    "kabu": "KAB.+NATUNA",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2004",
+    "kabu": "KAB.+LINGGA",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2005",
+    "kabu": "KAB.+KEPULAUAN+ANAMBAS",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2071",
+    "kabu": "KOTA+BATAM",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "2072",
+    "kabu": "KOTA+TANJUNG+PINANG",
+    "Prov": "Kepulauan+Riau"
+  },
+  {
+    "kode": "3171",
+    "kabu": "KOTA+ADM.+JAKARTA+SELATAN",
+    "Prov": "DKI+Jakarta"
+  },
+  {
+    "kode": "3172",
+    "kabu": "KOTA+ADM.+JAKARTA+TIMUR",
+    "Prov": "DKI+Jakarta"
+  },
+  {
+    "kode": "3173",
+    "kabu": "KOTA+ADM.+JAKARTA+PUSAT",
+    "Prov": "DKI+Jakarta"
+  },
+  {
+    "kode": "3174",
+    "kabu": "KOTA+ADM.+JAKARTA+BARAT",
+    "Prov": "DKI+Jakarta"
+  },
+  {
+    "kode": "3175",
+    "kabu": "KOTA+ADM.+JAKARTA+UTARA",
+    "Prov": "DKI+Jakarta"
+  },
+  {
+    "kode": "3201",
+    "kabu": "KAB.+BOGOR",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3202",
+    "kabu": "KAB.+SUKABUMI",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3203",
+    "kabu": "KAB.+CIANJUR",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3204",
+    "kabu": "KAB.+BANDUNG",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3205",
+    "kabu": "KAB.+GARUT",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3206",
+    "kabu": "KAB.+TASIKMALAYA",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3207",
+    "kabu": "KAB.+CIAMIS",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3208",
+    "kabu": "KAB.+KUNINGAN",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3209",
+    "kabu": "KAB.+CIREBON",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3210",
+    "kabu": "KAB.+MAJALENGKA",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3211",
+    "kabu": "KAB.+SUMEDANG",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3212",
+    "kabu": "KAB.+INDRAMAYU",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3213",
+    "kabu": "KAB.+SUBANG",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3214",
+    "kabu": "KAB.+PURWAKARTA",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3215",
+    "kabu": "KAB.+KARAWANG",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3216",
+    "kabu": "KAB.+BEKASI",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3217",
+    "kabu": "KAB.+BANDUNG+BARAT",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3271",
+    "kabu": "KOTA+BOGOR",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3272",
+    "kabu": "KOTA+SUKABUMI",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3273",
+    "kabu": "KOTA+BANDUNG",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3274",
+    "kabu": "KOTA+CIREBON",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3275",
+    "kabu": "KOTA+BEKASI",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3276",
+    "kabu": "KOTA+DEPOK",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3277",
+    "kabu": "KOTA+CIMAHI",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3278",
+    "kabu": "KOTA+TASIKMALAYA",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3279",
+    "kabu": "KOTA+BANJAR",
+    "Prov": "Jawa+Barat"
+  },
+  {
+    "kode": "3301",
+    "kabu": "KAB.+CILACAP",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3302",
+    "kabu": "KAB.+BANYUMAS",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3303",
+    "kabu": "KAB.+PURBALINGGA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3304",
+    "kabu": "KAB.+BANJARNEGARA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3305",
+    "kabu": "KAB.+KEBUMEN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3306",
+    "kabu": "KAB.+PURWOREJO",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3307",
+    "kabu": "KAB.+WONOSOBO",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3308",
+    "kabu": "KAB.+MAGELANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3309",
+    "kabu": "KAB.+BOYOLALI",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3310",
+    "kabu": "KAB.+KLATEN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3311",
+    "kabu": "KAB.+SUKOHARJO",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3312",
+    "kabu": "KAB.+WONOGIRI",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3313",
+    "kabu": "KAB.+KARANGANYAR",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3314",
+    "kabu": "KAB.+SRAGEN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3315",
+    "kabu": "KAB.+GROBOGAN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3316",
+    "kabu": "KAB.+BLORA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3317",
+    "kabu": "KAB.+REMBANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3318",
+    "kabu": "KAB.+PATI",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3319",
+    "kabu": "KAB.+KUDUS",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3320",
+    "kabu": "KAB.+JEPARA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3321",
+    "kabu": "KAB.+DEMAK",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3322",
+    "kabu": "KAB.+SEMARANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3323",
+    "kabu": "KAB.+TEMANGGUNG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3324",
+    "kabu": "KAB.+KENDAL",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3325",
+    "kabu": "KAB.+BATANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3326",
+    "kabu": "KAB.+PEKALONGAN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3327",
+    "kabu": "KAB.+PEMALANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3328",
+    "kabu": "KAB.+TEGAL",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3329",
+    "kabu": "KAB.+BREBES",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3371",
+    "kabu": "KOTA+MAGELANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3372",
+    "kabu": "KOTA+SURAKARTA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3373",
+    "kabu": "KOTA+SALATIGA",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3374",
+    "kabu": "KOTA+SEMARANG",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3375",
+    "kabu": "KOTA+PEKALONGAN",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3376",
+    "kabu": "KOTA+TEGAL",
+    "Prov": "Jawa+Tengah"
+  },
+  {
+    "kode": "3401",
+    "kabu": "KAB.+KULON+PROGO",
+    "Prov": "Daerah+Istimewa+Yogyakarta"
+  },
+  {
+    "kode": "3402",
+    "kabu": "KAB.+BANTUL",
+    "Prov": "Daerah+Istimewa+Yogyakarta"
+  },
+  {
+    "kode": "3403",
+    "kabu": "KAB.+GUNUNG+KIDUL",
+    "Prov": "Daerah+Istimewa+Yogyakarta"
+  },
+  {
+    "kode": "3404",
+    "kabu": "KAB.+SLEMAN",
+    "Prov": "Daerah+Istimewa+Yogyakarta"
+  },
+  {
+    "kode": "3471",
+    "kabu": "KOTA+YOGYAKARTA",
+    "Prov": "Daerah+Istimewa+Yogyakarta"
+  },
+  {
+    "kode": "3501",
+    "kabu": "KAB.+PACITAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3502",
+    "kabu": "KAB.+PONOROGO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3503",
+    "kabu": "KAB.+TRENGGALEK",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3504",
+    "kabu": "KAB.+TULUNGAGUNG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3505",
+    "kabu": "KAB.+BLITAR",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3506",
+    "kabu": "KAB.+KEDIRI",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3507",
+    "kabu": "KAB.+MALANG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3508",
+    "kabu": "KAB.+LUMAJANG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3509",
+    "kabu": "KAB.+JEMBER",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3510",
+    "kabu": "KAB.+BANYUWANGI",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3511",
+    "kabu": "KAB.+BONDOWOSO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3512",
+    "kabu": "KAB.+SITUBONDO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3513",
+    "kabu": "KAB.+PROBOLINGGO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3514",
+    "kabu": "KAB.+PASURUAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3515",
+    "kabu": "KAB.+SIDOARJO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3516",
+    "kabu": "KAB.+MOJOKERTO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3517",
+    "kabu": "KAB.+JOMBANG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3518",
+    "kabu": "KAB.+NGANJUK",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3519",
+    "kabu": "KAB.+MADIUN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3520",
+    "kabu": "KAB.+MAGETAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3521",
+    "kabu": "KAB.+NGAWI",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3522",
+    "kabu": "KAB.+BOJONEGORO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3523",
+    "kabu": "KAB.+TUBAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3524",
+    "kabu": "KAB.+LAMONGAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3525",
+    "kabu": "KAB.+GRESIK",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3526",
+    "kabu": "KAB.+BANGKALAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3527",
+    "kabu": "KAB.+SAMPANG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3528",
+    "kabu": "KAB.+PAMEKASAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3529",
+    "kabu": "KAB.+SUMENEP",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3571",
+    "kabu": "KOTA+KEDIRI",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3572",
+    "kabu": "KOTA+BLITAR",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3573",
+    "kabu": "KOTA+MALANG",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3574",
+    "kabu": "KOTA+PROBOLINGGO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3575",
+    "kabu": "KOTA+PASURUAN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3576",
+    "kabu": "KOTA+MOJOKERTO",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3577",
+    "kabu": "KOTA+MADIUN",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3578",
+    "kabu": "KOTA+SURABAYA",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3579",
+    "kabu": "KOTA+BATU",
+    "Prov": "Jawa+Timur"
+  },
+  {
+    "kode": "3601",
+    "kabu": "KAB.+PANDEGLANG",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3602",
+    "kabu": "KAB.+LEBAK",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3603",
+    "kabu": "KAB.+TANGERANG",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3604",
+    "kabu": "KAB.+SERANG",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3671",
+    "kabu": "KOTA+TANGERANG",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3672",
+    "kabu": "KOTA+CILEGON",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3673",
+    "kabu": "KOTA+SERANG",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "3674",
+    "kabu": "KOTA+TANGERANG+SELATAN",
+    "Prov": "Banten"
+  },
+  {
+    "kode": "5101",
+    "kabu": "KAB.+JEMBRANA",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5102",
+    "kabu": "KAB.+TABANAN",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5103",
+    "kabu": "KAB.+BADUNG",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5104",
+    "kabu": "KAB.+GIANYAR",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5105",
+    "kabu": "KAB.+KLUNGKUNG",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5106",
+    "kabu": "KAB.+BANGLI",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5107",
+    "kabu": "KAB.+Karangasem",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5108",
+    "kabu": "KAB.+BULELENG",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5130",
+    "kabu": "KAB.+BADUNG",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5171",
+    "kabu": "KOTA+DENPASAR",
+    "Prov": "Bali"
+  },
+  {
+    "kode": "5201",
+    "kabu": "KAB.+LOMBOK+BARAT",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5202",
+    "kabu": "KAB.+LOMBOK+TENGAH",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5203",
+    "kabu": "KAB.+LOMBOK+TIMUR",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5204",
+    "kabu": "KAB.+SUMBAWA",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5205",
+    "kabu": "KAB.+DOMPU",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5206",
+    "kabu": "KAB.+BIMA",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5207",
+    "kabu": "KAB.+SUMBAWA+BARAT",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5208",
+    "kabu": "KAB.+LOMBOK+UTARA",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5271",
+    "kabu": "KOTA+MATARAM",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5272",
+    "kabu": "KOTA+BIMA",
+    "Prov": "Nusa+Tenggara+Barat"
+  },
+  {
+    "kode": "5301",
+    "kabu": "KAB.+SUMBA+BARAT",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5302",
+    "kabu": "KAB.+SUMBA+TIMUR",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5303",
+    "kabu": "KAB.+KUPANG",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5304",
+    "kabu": "KAB.+TIMOR+TENGAH+SELATAN",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5305",
+    "kabu": "KAB.+TIMOR+TENGAH+UTARA",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5306",
+    "kabu": "KAB.+BELU",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5307",
+    "kabu": "KAB.+ALOR",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5308",
+    "kabu": "KAB.+LEMBATA",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5309",
+    "kabu": "KAB.+FLORES+TIMUR",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5310",
+    "kabu": "KAB.+SIKKA",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5311",
+    "kabu": "KAB.+ENDE",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5312",
+    "kabu": "KAB.+NGADA",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5313",
+    "kabu": "KAB.+MANGGARAI",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5314",
+    "kabu": "KAB.+ROTE+NDAO",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5316",
+    "kabu": "KAB.+SUMBA+TENGAH",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5320",
+    "kabu": "KAB.+SABU+RAIJUA",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "5371",
+    "kabu": "KOTA+KUPANG",
+    "Prov": "Nusa+Tenggara+Timur"
+  },
+  {
+    "kode": "6101",
+    "kabu": "KAB.+SAMBAS",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6102",
+    "kabu": "KAB.+BENGKAYANG",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6103",
+    "kabu": "KAB.+LANDAK",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6104",
+    "kabu": "KAB.+PONTIANAK",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6105",
+    "kabu": "KAB.+SANGGAU",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6106",
+    "kabu": "KAB.+KETAPANG",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6107",
+    "kabu": "KAB.+SINTANG",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6108",
+    "kabu": "KAB.+KAPUAS+HULU",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6109",
+    "kabu": "KAB.+SEKADAU",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6110",
+    "kabu": "KAB.+MELAWI",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6112",
+    "kabu": "KAB.+KUBU+RAYA",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6171",
+    "kabu": "KOTA+PONTIANAK",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6172",
+    "kabu": "KOTA+SINGKAWANG",
+    "Prov": "Kalimantan+Barat"
+  },
+  {
+    "kode": "6201",
+    "kabu": "KAB.+KOTA+ARINGIN+BARAT",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6202",
+    "kabu": "KAB.+KOTA+ARINGIN+TIMUR",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6203",
+    "kabu": "KAB.+KAPUAS",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6204",
+    "kabu": "KAB.+BARITO+SELATAN",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6205",
+    "kabu": "KAB.+BARITO+UTARA",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6206",
+    "kabu": "KAB.+SUKAMARA",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6207",
+    "kabu": "KAB.+LAMANDAU",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6208",
+    "kabu": "KAB.+SERUYAN",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6209",
+    "kabu": "KAB.+KATINGAN",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6210",
+    "kabu": "KAB.+PULANG+PISAU",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6211",
+    "kabu": "KAB.+GUNUNG+MAS",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6212",
+    "kabu": "KAB.+BARITO+TIMUR",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6213",
+    "kabu": "KAB.+MURUNG+RAYA",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6271",
+    "kabu": "KOTA+PALANGKA+RAYA",
+    "Prov": "Kalimatan+Tengah"
+  },
+  {
+    "kode": "6301",
+    "kabu": "KAB.+TANAH+LAUT",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6302",
+    "kabu": "KAB.+KOTA+ARU",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6303",
+    "kabu": "KAB.+BANJAR",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6304",
+    "kabu": "KAB.+BARITO+KUALA",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6305",
+    "kabu": "KAB.+TAPIN",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6306",
+    "kabu": "KAB.+HULU+SUNGAI+SELATAN",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6307",
+    "kabu": "KAB.+HULU+SUNGAI+TENGAH",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6308",
+    "kabu": "KAB.+HULU+SUNGAI+UTARA",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6309",
+    "kabu": "KAB.+TABALONG",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6310",
+    "kabu": "KAB.+TANAH+BUMBU",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6311",
+    "kabu": "KAB.+BALANGAN",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6371",
+    "kabu": "KOTA+BANJARMASIN",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6372",
+    "kabu": "KOTA+BANJAR+BARU",
+    "Prov": "Kalimantan+Selatan"
+  },
+  {
+    "kode": "6402",
+    "kabu": "KAB.+KUTAI+BARAT",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6403",
+    "kabu": "KAB.+KUTAI+KARTANEGARA",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6404",
+    "kabu": "KAB.+KUTAI+TIMUR",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6405",
+    "kabu": "KAB.+BERAU",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6409",
+    "kabu": "KAB.+PENAJAM+PASER+UTARA",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6471",
+    "kabu": "KOTA+BALIKPAPAN",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6472",
+    "kabu": "KOTA+SAMARINDA",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6474",
+    "kabu": "KOTA+BONTANG",
+    "Prov": "Kalimantan+Timur"
+  },
+  {
+    "kode": "6501",
+    "kabu": "KAB.+MALINAU",
+    "Prov": "Kalimantan+Utara"
+  },
+  {
+    "kode": "6502",
+    "kabu": "KAB.+BULUNGAN",
+    "Prov": "Kalimantan+Utara"
+  },
+  {
+    "kode": "6504",
+    "kabu": "KAB.+NUNUKAN",
+    "Prov": "Kalimantan+Utara"
+  },
+  {
+    "kode": "6571",
+    "kabu": "KOTA+TARAKAN",
+    "Prov": "Kalimantan+Utara"
+  },
+  {
+    "kode": "7101",
+    "kabu": "KAB.+BOLAANG+MENGONDOW",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7102",
+    "kabu": "KAB.+MINAHASA",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7103",
+    "kabu": "KAB.+KEPULAUAN+SANGIHE",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7104",
+    "kabu": "KAB.+KEPULAUAN+TALAUD",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7105",
+    "kabu": "KAB.+MINAHASA+SELATAN",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7106",
+    "kabu": "KAB.+MINAHASA+UTARA",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7107",
+    "kabu": "KAB.+BOLAANG+MONGONDOW+UTARA",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7109",
+    "kabu": "KAB.+MINAHASA+TENGGARA",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7110",
+    "kabu": "KAB.+BOLANG+MONGONDOW+SELATAN",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7171",
+    "kabu": "KOTA+MANADO",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7172",
+    "kabu": "KOTA+BITUNG",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7173",
+    "kabu": "KOTA+TOMOHON",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7174",
+    "kabu": "KOTA+KOTA+OBAGU",
+    "Prov": "Sulawesi+Utara"
+  },
+  {
+    "kode": "7202",
+    "kabu": "KAB.+BANGGAI",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7203",
+    "kabu": "KAB.+MOROWALI",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7204",
+    "kabu": "KAB.+POSO",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7205",
+    "kabu": "KAB.+DONGGALA",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7206",
+    "kabu": "KAB.+TOLI-TOLI",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7207",
+    "kabu": "KAB.+BUOL",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7208",
+    "kabu": "KAB.+PARIGI+MOUTONG",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7209",
+    "kabu": "KAB.+TOJO+UNA-UNA",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7271",
+    "kabu": "KOTA+PALU",
+    "Prov": "Sulawesi+Tengah"
+  },
+  {
+    "kode": "7301",
+    "kabu": "KAB.+Kepulauan+Selayar",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7302",
+    "kabu": "KAB.+BULUKUMBA",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7303",
+    "kabu": "KAB.+BANTAENG",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7304",
+    "kabu": "KAB.+JENEPONTO",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7305",
+    "kabu": "KAB.+TAKALAR",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7306",
+    "kabu": "KAB.+GOWA",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7307",
+    "kabu": "KAB.+SINJAI",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7308",
+    "kabu": "KAB.+BONE",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7309",
+    "kabu": "KAB.+MAROS",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7310",
+    "kabu": "KAB.+PANGKAJENE+KEPULAUAN",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7311",
+    "kabu": "KAB.+BARRU",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7312",
+    "kabu": "KAB.+SOPPENG",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7313",
+    "kabu": "KAB.+WAJO",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7314",
+    "kabu": "KAB.+SIDENRENG+RAPPANG",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7315",
+    "kabu": "KAB.+PINRANG",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7316",
+    "kabu": "KAB.+ENREKANG",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7317",
+    "kabu": "KAB.+LUWU",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7318",
+    "kabu": "KAB.+TANA+TORAJA",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7322",
+    "kabu": "KAB.+LUWU+UTARA",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7325",
+    "kabu": "KAB.+LUWU+TIMUR",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7326",
+    "kabu": "KAB.+TORAJA+UTARA",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7371",
+    "kabu": "KOTA+MAKASSAR",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7372",
+    "kabu": "KOTA+PARE-PARE",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7373",
+    "kabu": "KOTA+PALOPO",
+    "Prov": "Sulawesi+Selatan"
+  },
+  {
+    "kode": "7401",
+    "kabu": "KAB.+BUTON",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7402",
+    "kabu": "KAB.+MUNA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7403",
+    "kabu": "KAB.+KONAWE",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7404",
+    "kabu": "KAB.+KOLAKA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7405",
+    "kabu": "KAB.+KONAWE+SELATAN",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7406",
+    "kabu": "KAB.+BOMBANA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7407",
+    "kabu": "KAB.+WAKATOBI",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7408",
+    "kabu": "KAB.+KOLAKA+UTARA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7409",
+    "kabu": "KAB.+BUTON+UTARA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7410",
+    "kabu": "KAB.+KONAWE+UTARA",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7471",
+    "kabu": "KOTA+KENDARI",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7472",
+    "kabu": "KOTA+BAUBAU",
+    "Prov": "Sulawesi+Tenggara"
+  },
+  {
+    "kode": "7501",
+    "kabu": "KAB.+BOALEMO",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7502",
+    "kabu": "KAB.+GORONTALO",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7503",
+    "kabu": "KAB.+POHUWATO",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7504",
+    "kabu": "KAB.+BONE+BOLANGO",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7505",
+    "kabu": "KAB.+GORONTALO+UTARA",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7571",
+    "kabu": "KOTA+GORONTALO",
+    "Prov": "Gorontalo"
+  },
+  {
+    "kode": "7601",
+    "kabu": "KAB.+MAJENE+SULBAR",
+    "Prov": "Sulawesi+Barat"
+  },
+  {
+    "kode": "7602",
+    "kabu": "KAB.+POLEWALI+MANDAR",
+    "Prov": "Sulawesi+Barat"
+  },
+  {
+    "kode": "7603",
+    "kabu": "KAB.+MAMASA+SULBAR",
+    "Prov": "Sulawesi+Barat"
+  },
+  {
+    "kode": "7604",
+    "kabu": "KAB.+MAMUJU+SULBAR",
+    "Prov": "Sulawesi+Barat"
+  },
+  {
+    "kode": "7605",
+    "kabu": "KAB.+MAMUJU+UTARA+SULBAR",
+    "Prov": "Sulawesi+Barat"
+  },
+  {
+    "kode": "8101",
+    "kabu": "KAB.+MALUKU+TENGGARA+BARAT",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8102",
+    "kabu": "KAB.+MALUKU+TENGGARA",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8103",
+    "kabu": "KAB.+MALUKU+TENGAH",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8104",
+    "kabu": "KAB.+BURU",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8105",
+    "kabu": "KAB.+KEP.+ARU",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8106",
+    "kabu": "KAB.+SERAM+BAGIAN+BARAT",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8107",
+    "kabu": "KAB.+SERAM+BAGIAN+TIMUR",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8108",
+    "kabu": "KAB.+MALUKU+BARAT+DAYA",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8109",
+    "kabu": "KAB.+BURU+SELATAN",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8171",
+    "kabu": "KOTA+AMBON",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8172",
+    "kabu": "KOTA+TUAL",
+    "Prov": "Maluku"
+  },
+  {
+    "kode": "8201",
+    "kabu": "KAB.+HALMAHERA+BARAT",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8202",
+    "kabu": "KAB.+HALMAHERA+TENGAH",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8204",
+    "kabu": "KAB.+HALMAHERA+SELATAN",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8205",
+    "kabu": "KAB.+HALMAHERA+UTARA",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8206",
+    "kabu": "KAB.+HALMAHERA+TIMUR",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8207",
+    "kabu": "KAB.+MOROTAI",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8271",
+    "kabu": "KOTA+TERNATE",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "8272",
+    "kabu": "Kepulauan+Tidore",
+    "Prov": "Maluku+Utara"
+  },
+  {
+    "kode": "9101",
+    "kabu": "KAB.+FAK-FAK",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9102",
+    "kabu": "KAB.+KAIMANA",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9103",
+    "kabu": "KAB.+TELUK+WONDAMA",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9104",
+    "kabu": "KAB.+TELUK+BINTUNI",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9105",
+    "kabu": "KAB.+MANOKWARI",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9106",
+    "kabu": "KAB.+SORONG+SELATAN",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9107",
+    "kabu": "KAB.+SORONG",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9108",
+    "kabu": "KAB.+RAJA+AMPAT",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9171",
+    "kabu": "KOTA+SORONG",
+    "Prov": "Papua+Barat"
+  },
+  {
+    "kode": "9201",
+    "kabu": "KAB.+MERAUKE",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9202",
+    "kabu": "KAB.+JAYAWIJAYA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9203",
+    "kabu": "KAB.+JAYAPURA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9204",
+    "kabu": "KAB.+NABIRE",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9205",
+    "kabu": "KAB.+BIAK+NUMFOR",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9208",
+    "kabu": "KAB.+KEPULAUAN+YAPEN",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9210",
+    "kabu": "KAB.+PANIAI",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9211",
+    "kabu": "KAB.+PUNCAK+JAYA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9212",
+    "kabu": "KAB.+MIMIKA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9213",
+    "kabu": "KAB.+BOVEN+DIGOEL",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9214",
+    "kabu": "KAB.+MAPPI",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9215",
+    "kabu": "KAB.+ASMAT",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9216",
+    "kabu": "KAB.+YAHUKIMO",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9217",
+    "kabu": "KAB.+PEGUNUNGAN+BINTANG",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9220",
+    "kabu": "KAB.+KEEROM",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9227",
+    "kabu": "KAB.+SUPIORI",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9228",
+    "kabu": "KAB.+MAMBERAMO+RAYA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9230",
+    "kabu": "KAB.+LANNY+JAYA",
+    "Prov": "Papua"
+  },
+  {
+    "kode": "9271",
+    "kabu": "KOTA+JAYAPURA",
+    "Prov": "Papua"
+  }
+]
