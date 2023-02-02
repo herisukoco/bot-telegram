@@ -51,7 +51,7 @@ def stop(update: update, context: CallbackContext) -> None:
 
 
 def main():
-    updater = Updater('2139169311:AAGsmyg_4Z9CHK7Csz6cNnH97SsWSZhC6s0')
+    updater = Updater('insertyourkey')
     updater.dispatcher.add_handler(CommandHandler('start', start))
     updater.dispatcher.add_handler(CommandHandler('pasien', f.pasien))
     updater.dispatcher.add_handler(CommandHandler('rs', f.rs))
